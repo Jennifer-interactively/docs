@@ -3,8 +3,8 @@
   "theme": "mint",
   "name": "Interactively Docs",
   "colors": {
-    "primary": "#0052CC",
-    "light": "#0052CC",
+    "primary": "#0599FF",
+    "light": "#0599FF",
     "dark": "#0599FF"
   },
   "favicon": "/favicon.svg",
