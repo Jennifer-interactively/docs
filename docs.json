@@ -3,9 +3,9 @@
   "theme": "mint",
   "name": "Interactively Docs",
   "colors": {
-    "primary": "#0599FF",
-    "light": "#0052CC",
-    "dark": "#0599FF"
+    "primary": "#999999",
+    "light": "#999999",
+    "dark": "#999999"
   },
   "favicon": "/favicon.svg",
   "navigation": {
