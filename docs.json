@@ -22,9 +22,9 @@
             ]
           },
           {
-            "group": "Customization",
+            "group": "Build",
             "pages": [
-              "essentials/settings",
+              "essentials/record",
               "essentials/editing"
             ]
           },
