@@ -1,9 +1,9 @@
 {
   "$schema": "https://mintlify.com/docs.json",
   "theme": "mint",
-  "name": "Mint Starter Kit",
+  "name": "Interactively Docs",
   "colors": {
-    "primary": "#16A34A",
+    "primary": "#0052CC",
     "light": "#0052CC",
     "dark": "#0599FF"
   },
