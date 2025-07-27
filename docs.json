@@ -24,7 +24,6 @@
             "group": "Build",
             "pages": [
               "essentials/record",
-              "essentials/upload",
               "essentials/edit",
               "essentials/share",
               "essentials/analyze"
