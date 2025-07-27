@@ -26,9 +26,7 @@
               "essentials/record",
               "essentials/edit",
               "essentials/share",
-              "essentials/analyze",
-              "essentials/demo/index",     
-              "essentials/demo/screen"     
+              "essentials/analyze"    
             ]
 },
 
