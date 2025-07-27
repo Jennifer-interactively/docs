@@ -26,7 +26,8 @@
     "essentials/record",
     "essentials/edit",
     "essentials/share",
-    "essentials/analyze"
+    "essentials/analyze",
+    "demo"
   ]
 },
 
