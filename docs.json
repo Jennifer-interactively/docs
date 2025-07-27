@@ -24,9 +24,9 @@
   "group": "Build",
   "pages": [
     "essentials/record",
-    "essentials/edit/index",
-    "essentials/edit/timeline",
-    "essentials/edit/overlays",
+    "essentials/edit-index",
+    "essentials/edit-timeline",
+    "essentials/edit-overlays",
     "essentials/share",
     "essentials/analyze"
   ]
