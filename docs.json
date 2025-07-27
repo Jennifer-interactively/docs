@@ -24,9 +24,7 @@
   "group": "Build",
   "pages": [
     "essentials/record",
-    "essentials/edit/overview",
-    "essentials/edit/page-morph",
-    "essentials/edit/video-editing",
+    "essentials/edit",
     "essentials/share",
     "essentials/analyze"
   ]
