@@ -20,14 +20,18 @@
               "quickstart"
             ]
           },
-   {
+ {
   "group": "Build",
   "pages": [
     "essentials/record",
+    "essentials/edit/overview",
+    "essentials/edit/page-morph",
+    "essentials/edit/video-editing",
     "essentials/share",
     "essentials/analyze"
   ]
 },
+          
 {
   "group": "Edit",
   "pages": [
