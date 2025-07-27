@@ -27,7 +27,16 @@
     "essentials/edit",
     "essentials/share",
     "essentials/analyze",
-    "demo"
+    "demo",
+      "pages": [
+        "demo/index",
+        "demo/screen-capture",
+        "demo/user-inputs"
+      ]
+    }
+  ]
+}
+    
   ]
 },
 
