@@ -20,11 +20,13 @@
               "quickstart"
             ]
           },
- {
+{
   "group": "Build",
   "pages": [
     "essentials/record",
-    "essentials/edit",
+    "essentials/edit/index",
+    "essentials/edit/timeline",
+    "essentials/edit/overlays",
     "essentials/share",
     "essentials/analyze"
   ]
