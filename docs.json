@@ -20,24 +20,16 @@
               "quickstart"
             ]
           },
-{
-  "group": "Build",
-  "pages": [
-    "essentials/record",
-    "essentials/edit",
-    "essentials/share",
-    "essentials/analyze",
-    "demo",
-      "pages": [
-        "demo/index",
-        "demo/screen-capture",
-        "demo/user-inputs"
-      ]
-    }
-  ]
-}
-    
-  ]
+          {
+            "group": "Build",
+            "pages": [
+              "essentials/record",
+              "essentials/edit",
+              "essentials/share",
+              "essentials/analyze",
+              "essentials/demo/index",     
+              "essentials/demo/screen"     
+            ]
 },
 
           {
