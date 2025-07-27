@@ -25,6 +25,7 @@
             "pages": [
               "essentials/record",
               "essentials/edit",
+              "essentials/design",
               "essentials/share",
               "essentials/analyze"    
             ]
