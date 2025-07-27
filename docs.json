@@ -29,15 +29,6 @@
     "essentials/analyze"
   ]
 },
-          
-{
-  "group": "Edit",
-  "pages": [
-    "essentials/edit/overview",
-    "essentials/edit/page-morph",
-    "essentials/edit/video-editing"
-  ]
-},
 
           {
             "group": "Share",
